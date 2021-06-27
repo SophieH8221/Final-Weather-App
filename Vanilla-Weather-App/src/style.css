@@ -1,5 +1,7 @@
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  background-color: #F9F7FE;
+  bac
 }
 
 h1 {
@@ -39,12 +41,14 @@ li:first-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+
 }
 
 .weather-app {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 10px;
+  background: white;
 }
 
 .overview {
